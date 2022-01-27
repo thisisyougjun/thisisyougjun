@@ -9,6 +9,7 @@
 
 
 - 📚 현재  **javascript,html,css** 공부 하고있습니다
+
   ![thisisyoungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisyougjun&theme=aura_dark&show_icons=true)
 
 <h3 align="center">🛠Languages and Tools:</h3>
