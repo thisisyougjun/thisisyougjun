@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Youngjun LEE
-- 👀 This is my github
-- 🌱 I’m currently learning ...Java, Html/css...
-- 📫 My Maile. a8853665@gmail.com
-
-<!---
-
---->
+![thisisyoungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisyoungjun&show_icons=true&theme=onedark)
