@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Youngjun</h1>
 
 
-<h3 align="center">그저 개발 공부 하고있는 평범한 고등학생</h3>
+<h3 align="center">개발 공부 하고있는 평범한 고등학생</h3>
 
 
 - 📚 현재  **javascript,html,css** 공부 하고있습니다
@@ -20,7 +20,7 @@
 <h3 align="center">🤙Connect with me:</h3>
 
 <p align="center">
-<a href="https://instagram.com/yeseyeyoungjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisyoungjun" height="30" width="40" /></a>
+<a href="https://instagram.com/yeseyeyoungjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeseyeyoungjun" height="30" width="40" /></a>
 <a href="https://www.facebook.com/a1228992252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisisyoungjun" height="30" width="40" /></a>
 </p>
 
