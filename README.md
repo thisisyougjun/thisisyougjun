@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 <h3>🧰IDE</h3>
+<p>
 <img src="https://img.shields.io/badge/vsCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/><img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/>
+  </p>
 
 
