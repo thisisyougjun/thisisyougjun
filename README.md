@@ -8,7 +8,7 @@
 <h3 align="center">개발 공부 하고있는 평범한 고등학생</h3>
 
 
-- 📚 현재  **javascript,html,css** 공부 하고있습니다
+- 📚 현재  **javascript,html,css,React** 공부 하고있습니다
 
   ![thisisyoungjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisyougjun&theme=aura_dark&show_icons=true)
 
