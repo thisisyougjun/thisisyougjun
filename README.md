@@ -15,7 +15,7 @@
 </a><br>
 가끔 새로운 정보 얻을때 마다 여기에 정리 하고 있습니다
 
-- 📚 **javascript,html,css,React** Stuing~
+- 📚 **javascript,html,css,React** 공부중
 
 <h3>🛠Languages and Tools</h3>
 
