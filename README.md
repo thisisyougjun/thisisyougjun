@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=thisyoungjun&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=thisisyoungjun&fontSize=100)
  
 
 <h1 align="center">Hi 👋, I'm Youngjun</h1>
