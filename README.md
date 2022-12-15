@@ -7,7 +7,7 @@
 
 <h3 align="center">개발 공부 하고있는 평범한 고등학생</h3>
 
-<a href="https://aluminum-rambutan-1c9.notion.site/44439835b1e7469187fe1569fe99ad22?v=33a2cb9adf834725ba6b6922a1900465">Notion</a>
+<a href="https://aluminum-rambutan-1c9.notion.site/44439835b1e7469187fe1569fe99ad22?v=33a2cb9adf834725ba6b6922a1900465">Notion 바로가기</a>
 
 - 📚 현재  **javascript,html,css,React** 공부 하고있습니다
 
